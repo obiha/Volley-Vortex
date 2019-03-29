@@ -13,8 +13,6 @@ import javax.swing.Timer;
 public class volleyVector extends GraphicsProgram implements ActionListener{
 
 	/*STUDENT - JOSHUA OBIHA
-	 *TEACHER - MR.REA
-	 *COURSE  - COMPUTER SCIENCE (ISC4U0)
 	 *DATE    - 6/13/2016 
 	 */
 
